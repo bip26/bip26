@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bip26
-- 👀 I’m interested in VLSI
+- 👀 I’m interested in FPGA and Physical Designing
 - 🌱 I’m currently learning Verilog
 - 💞️ I’m looking to collaborate on RTL designing
 - 📫 How to reach me biplobdakua062@gmail.com
