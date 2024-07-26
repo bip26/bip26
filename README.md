@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @bip26
-- 👀 I’m interested in FPGA and Physical Designing
-- 🌱 I’m currently learning Verilog
-- 💞️ I’m looking to collaborate on RTL designing
-- 📫 How to reach me biplobdakua062@gmail.com
+- 👀 I’m have a deep interest in developing complex testbench.
+-     I worked on AXI4.0, DMA, Cryptocore(AES), PCIe4.0 Verification 
+- 🌱 I’m currently wroking as Junior Design Verification Engineer
+- 💞️ I’m looking to collaborate on UVM based TB for PCIe
+- 📫 Reach me at biplobdakua062@gmail.com
 
 <!---
 bip26/bip26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
